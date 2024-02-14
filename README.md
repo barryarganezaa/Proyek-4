@@ -4,6 +4,7 @@ A new Flutter project.
 
 ![image](https://github.com/barryarganezaa/Proyek-4/assets/116853183/8690be98-e5f4-4be0-af6e-bf3d64acdfef)
 
+saya menggunakan chrome untuk menjalankan flutter karena laptop saya tidak sanggup membuka emulator.
 
 ## Getting Started
 
